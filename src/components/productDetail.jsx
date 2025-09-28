@@ -104,12 +104,8 @@ const ProductDetailPage = () => {
             )}
 
             <div className="flex">
-              <a
-                href="tel:+1234567890"
-                className="bg-green-600 text-white font-medium py-2.5 md:py-3 px-4 md:px-6 rounded-lg flex-1 text-center text-base md:text-lg"
-              >
-                Call to Order: +1 (234) 567-890
-              </a>
+                Call to Order: +251 92 221 8897
+              
             </div>
           </div>
 
